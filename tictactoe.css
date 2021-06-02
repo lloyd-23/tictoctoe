@@ -1,0 +1,27 @@
+.grid {
+    width: 610px;
+    height: 610px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: black;
+}
+
+.grid button {
+    width: 200px;
+    height: 200px;
+    background-color:white;
+    margin-bottom: 5px;
+}
+.X {
+    background-image:  url('cross2.png');
+    width: 200px;
+    width: 200px;
+}
+
+.O {
+    background-image:  url('circle2.png');
+    width: 200px;
+    width: 200px;
+
+}
